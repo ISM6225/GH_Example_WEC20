@@ -7,6 +7,8 @@ namespace GH_Example_WEC20
     static void Main(string[] args)
     {
       Console.WriteLine("Hello World!");
+
+      Console.WriteLine("Sync demo");
     }
   }
 }
